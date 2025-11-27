@@ -3,11 +3,11 @@ name = "xash3d-ffi"
 description = "Raw FFI bindings to Xash3D FWGS engine"
 keywords = ["gamedev", "ffi", "bindings"]
 categories = ["api-bindings", "game-development"]
-version = "0.2.1"
+version = "0.2.2"
 license = "MIT"
 rust-version = "1.68"
 edition = "2021"
-repository = "https://github.com/numas13/xash3d-ffi"
+repository = "https://github.com/FWGS/xash3d-ffi"
 authors = ["Denis Drakhnia <numas13@gmail.com>"]
 exclude = ["xash3d-fwgs"]
 
